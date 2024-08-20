@@ -1,0 +1,34 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1222690749/tr/foto%C4%9Fraf/k%C3%BCresel-a%C4%9F-modern-yarat%C4%B1c%C4%B1-telekom%C3%BCnikasyon-ve-internet-ba%C4%9Flant%C4%B1s%C4%B1.jpg?s=612x612&w=0&k=20&c=VJPCumYIUdlL328bfxL2h3dkaj6p_CXsQWSSEhI2kgc=);
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.deneme {
+    background-color: cornflowerblue;
+    width: 80%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+h1, h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    margin-bottom: 5px ;
+}
+
+.yazar-tarih p{ 
+    display: inline-block;
+    font-size: 20px;
+}
+.yazar {
+    text-align: left;
+    width: 50%;
+}
+.tarih{
+    text-align: right;
+    width: 50%;
+}
